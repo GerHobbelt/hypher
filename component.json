@@ -1,0 +1,14 @@
+{
+  "name": "hyper",
+  "version": "0.2.1",
+  "dependencies": {},
+  "description": "A fast and small hyphenation engine",
+  "author": "Bram Stein <b.l.stein@gmail.com> (http://www.bramstein.com)",
+  "main": "lib/hypher.js",
+  "scripts": [
+    "lib/hypher.js.js"
+  ],
+  "styles":[],
+  "locals": []
+}
+
